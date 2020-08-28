@@ -1,1 +1,1 @@
-My K-Nearest Neighbours algorithm
+My K-Nearest Neighbours Algorithm
